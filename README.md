@@ -4,7 +4,7 @@ prophetes
 Instalation Requirements for apienv
 -----------
 
-Install silver searcher (ACK)
+Basic dependencies
 
     Django==1.5
     django-tastypie==0.9.15
