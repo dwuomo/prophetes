@@ -1,7 +1,7 @@
 prophetes
 =========
 
-Instalation Requirements for apienv
+Instalation Requirements in apienv
 -----------
 
 Basic dependencies
